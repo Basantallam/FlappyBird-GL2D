@@ -1,5 +1,5 @@
 # FlappyBird-GL2D
-Simple Flappy bird Game using open source library GL2D in c++
+Simple Flappy bird Game using open source library Open GL 2D in c++
 
 How to Play:
 -Avoid barriers by clicking A to jump.
